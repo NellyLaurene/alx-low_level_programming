@@ -5,6 +5,7 @@
  *
  * Return: Always 0 (indicating successful termination)
  */
+
 int main(void)
 {
 	puts("Programming is like building a multilingual puzzle");
